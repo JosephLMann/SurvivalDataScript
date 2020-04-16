@@ -12,6 +12,7 @@ Requires an updated python, numpy, and pandas
 Requires that all dates be store in following format: MM/DD/YY (will probably fix this in an update)
 	example 02/26/19 ( although I think you can get away without the leading zero, for example 2/26/19)
 
+Requires that the pathname to your meta data csv contain a '/'
 
 positional (required) arguments (in this order)
 (1) the full pathname of your meta data 
